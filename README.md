@@ -1,6 +1,6 @@
-Car Price Prediction Using Machine Learning
+##Car Price Prediction Using Machine Learning
 
-Overview
+#Overview
 
 This repository showcases a comprehensive machine learning project focused on predicting the prices of used cars based on various features such as make, model, year, fuel type, transmission type, and more. By leveraging historical data from CarDekho, this project aims to create an accurate and user-friendly tool that enhances customer experience and streamlines the pricing process for sales representatives. The final product is a deployed Streamlit application that allows users to input car details and receive instant price predictions.
 
